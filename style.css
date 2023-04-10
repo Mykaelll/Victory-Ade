@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+h2{
+  background-color: #13ABC2;
+  justify-content: center;
+  text-align: center;
+  font-weight: 900;
+}
+span{
+  color: white;
+}
